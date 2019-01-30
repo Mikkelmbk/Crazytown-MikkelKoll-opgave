@@ -24,4 +24,6 @@
 
 * Hvis din anden if statement er sand, skal du lave en fetch der henter dette Api https://holidayapi.com/ inde i din if statement
 
-* 
+## **phase 3:**
+
+* Inde i din fetch skal du 
