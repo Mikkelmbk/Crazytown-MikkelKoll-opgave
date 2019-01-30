@@ -26,4 +26,4 @@
 
 ## **phase 3:**
 
-* Inde i din fetch skal du 
+* Inde i din fetch skal du få udskrevet "George Washington's Birthday" i konsollen
